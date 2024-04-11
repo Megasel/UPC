@@ -48,6 +48,13 @@ namespace MAINPROJECT
                 form1.idEnd = int.Parse(textBox2.Text);
             }            
             this.Close();
+            form1.Export();
         }
+
+        private void Form3_FormClosed(object sender, FormClosedEventArgs e) { }
+        
+            
+        
+        
     }
 }

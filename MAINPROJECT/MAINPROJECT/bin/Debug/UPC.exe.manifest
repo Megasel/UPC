@@ -174,24 +174,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UPC.exe" size="363440">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UPC.exe" size="365488">
       <assemblyIdentity name="UPC" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BFN8hFCd08NhDMhaNN7GkIDGQWv4nLtrjsC25fq25RI=</dsig:DigestValue>
+        <dsig:DigestValue>mca9yreFhf+yvcl1p1nU2i9NNghSFXBkf10/z5jqEoM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="UPC.exe.config" size="2644">
+  <file name="UPC.exe.config" size="2603">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TfWpTPxOm5O3YPjx9hUz0wqC1pwheS0s9ZMD4A2Nix8=</dsig:DigestValue>
+      <dsig:DigestValue>BZ5c0js75Z3AMITzQo2zB5lTlPEzfrICM9T+y/VaR1Y=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

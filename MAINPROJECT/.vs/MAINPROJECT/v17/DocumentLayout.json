@@ -6,15 +6,26 @@
       "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|c:\\users\\megas\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\mainproject\\dal\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\dal\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|c:\\users\\megas\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:MAINPROJECT\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MAINPROJECT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\mainproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:MAINPROJECT\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|c:\\users\\megas\\desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,19 +36,12 @@
       "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\mainproject\\dal\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\dal\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:MAINPROJECT\\DAL\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MAINPROJECT||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|E:\\VSproject\\UPC\\MAINPROJECT\\mainproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|e:\\vsproject\\upc\\mainproject\\mainproject\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D8C08F66-4F0D-4612-B88B-159CDFAF2694}|MAINPROJECT\\MAINPROJECT.csproj|solutionrelative:mainproject\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,22 +63,24 @@
               "RelativeToolTip": "MAINPROJECT\\Form2.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAwwDwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:47:26.393Z"
+              "WhenOpened": "2024-04-06T18:47:26.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form4.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\Form4.cs",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MAINPROJECT\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:47:03.061Z"
+              "WhenOpened": "2024-04-06T18:47:03.061Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form3.cs",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form3.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\Form3.cs",
@@ -82,57 +88,62 @@
               "RelativeToolTip": "MAINPROJECT\\Form3.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAApwDIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:47:01.407Z"
+              "WhenOpened": "2024-04-06T18:47:01.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form3.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\Form3.cs",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MAINPROJECT\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:26:13.047Z"
+              "WhenOpened": "2024-04-06T18:26:13.047Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "MAINPROJECT",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\MAINPROJECT.csproj",
               "RelativeDocumentMoniker": "MAINPROJECT\\MAINPROJECT.csproj",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\MAINPROJECT.csproj",
               "RelativeToolTip": "MAINPROJECT\\MAINPROJECT.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-06T18:46:06.741Z"
+              "WhenOpened": "2024-04-06T18:46:06.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\User.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\DAL\\User.cs",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\User.cs",
               "RelativeToolTip": "MAINPROJECT\\DAL\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAIA3wF4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:26:13.038Z"
+              "WhenOpened": "2024-04-06T18:26:13.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SqliteHelper.cs",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\SqliteHelper.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\DAL\\SqliteHelper.cs",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\DAL\\SqliteHelper.cs",
               "RelativeToolTip": "MAINPROJECT\\DAL\\SqliteHelper.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA3AAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:26:13.025Z"
+              "WhenOpened": "2024-04-06T18:26:13.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Megas\\Desktop\\Form1.cs",
               "ToolTip": "C:\\Users\\Megas\\Desktop\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
@@ -146,21 +157,22 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Megas\\Desktop\\Form1.cs",
               "ToolTip": "C:\\Users\\Megas\\Desktop\\Form1.cs",
-              "ViewState": "AQIAAJwBAAAAAAAAAAA5wKIBAAA/AAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvzIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T18:26:13.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form2.cs",
               "RelativeDocumentMoniker": "MAINPROJECT\\Form2.cs",
               "ToolTip": "E:\\VSproject\\UPC\\MAINPROJECT\\MAINPROJECT\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MAINPROJECT\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T18:26:13.053Z"
+              "WhenOpened": "2024-04-06T18:26:13.053Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

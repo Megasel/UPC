@@ -174,14 +174,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UPC.exe" size="365488">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UPC.exe" size="366000">
       <assemblyIdentity name="UPC" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mca9yreFhf+yvcl1p1nU2i9NNghSFXBkf10/z5jqEoM=</dsig:DigestValue>
+        <dsig:DigestValue>SAvPB4VE/xTHkxrxQleQFLBzty1ZMoFsoWE9aJ4NXi4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
